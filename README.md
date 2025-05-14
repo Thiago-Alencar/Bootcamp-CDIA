@@ -6,7 +6,7 @@ Bootcamp CDIA
 1.  **Planejamento Inicial:** Iniciei o projeto com o planejamento, criando uma lista geral de tarefas para organizar as atividades do desafio.
 2.  **Definição dos Objetivos do Projeto:** Defini os objetivos do projeto, como desenvolver um sistema inteligente para classificar defeitos em chapas de aço, prever a classe do defeito com probabilidade, extrair insights e gerar visualizações.
 3.  **Identificação das Necessidades da Empresa:** Identifiquei as necessidades da empresa, incluindo a automatização do controle de qualidade, detecção precoce e classificação precisa de defeitos, e a geração de informações para tomada de decisão.
-4.  **Compreensão da Estrutura dos Dados:** Entendi os dados, analisando a estrutura e o significado de cada uma das 31 colunas (features) fornecidas.
+4.  **Compreensão da Estrutura dos Dados:** Entendi os dados, analisando a estrutura e o significado de cada uma das colunas (features) fornecidas.
 5.  **Análise Exploratória Inicial:** Explorei estatísticas descritivas básicas, identificando outliers, valores ausentes e a necessidade de padronização em algumas colunas.
 6.  **Verificação do Balanceamento e Consistência:** Verifiquei o balanceamento das classes de defeito e a consistência dos dados, notando a necessidade de padronizar representações de valores booleanos (ex: 'true', 'sim').
 7.  **Pré-processamento e Limpeza de Dados:** Realizei o pré-processamento dos dados, tratando valores ausentes e removendo 418 linhas com dados faltantes.
